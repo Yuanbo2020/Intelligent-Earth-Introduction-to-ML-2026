@@ -1,0 +1,11 @@
+# Machine Learning Practicals — MT2026
+# Recommended: Python 3.11 or Python 3.13.
+# Tested locally with torch 2.10.0 + torchvision 0.25.0; compatible newer versions are allowed.
+numpy>=1.26,<3
+scipy>=1.11,<2
+matplotlib>=3.8,<4
+torch>=2.6,<3
+torchvision>=0.21,<1
+notebook>=7,<8
+ipykernel>=6,<8
+gdown>=5,<6
